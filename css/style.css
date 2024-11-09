@@ -17,56 +17,6 @@ body {
 	max-width: 1440px;
 }
 
-/* MEMBRES FONDATEURS */ 
-.membres-fondateurs { 
-	background-color: #E44444;
-	background:linear-gradient(90deg, #E44444, #CD487B);
-	padding: 40px 0; 
-	text-align: center; 
-} 
-.membres-fondateurs h2 { 
-	font-size: 24px; 
-	margin-bottom: 20px; 
-	color: #ffffff;
-} 
-.membres-fondateurs h3,
-.membres-fondateurs p {
-	color: #ffffff;
-}
-
-.directionRow { 
-	display: flex; 
-	justify-content: center; 
-	gap: 20px; 
-}
- .directionRow article { 
-	text-align: center; 
-	color: #ffffff; 
-}
- .directionRow article img { 
-	width: 150px; 
-	height: auto; 
-	justify-content: center;
-	pad: 10px
-} 
-.directionRow article h3 { 
-	font-size: 18px; 
-	margin: 5px 0; 
-}
- .directionRow article p { 
-	text-underline-position: auto;
-	font-size: 16px; 
-	margin: 0; 
-}
-
-h2, 
-h3 {
-	font-family: 'Archivo', sans-serif;
-	font-style: normal;
-	text-align: center
-}
-
-
 /*HEADER*/
 header {
 	position: relative;
